@@ -1,10 +1,12 @@
 
 ### Welcome to my profile!
-<div>
-  <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=ccostarod&show_icons=true&theme=dracula&count_private=true">
-  <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=ccostarod&layout=compact&theme=dracula">
-</div>
   <p>Hello, I'm Rodrigo Costa, Computer Science Student (2/8).</p>
   <li>I’m currently learning Python</li>
   <li>Contact me via: ccostarodrigoo@gmail.com</li>
-</body>
+<p>  
+  <div>
+      <img height='50em' src='https://cdn.worldvectorlogo.com/logos/python-5.svg'>
+      <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+      <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+  </div>
+</p>
