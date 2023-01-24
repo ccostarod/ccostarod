@@ -1,7 +1,7 @@
 
 ## Welcome to my profile!
  #### <p>Hello, I'm Rodrigo Costa, Computer Science Student in Federal University of Maranhão (2/8).</p>
-  <li>I’m currently learning Python</li>
+  <li>I’m currently learning Python, HTML & CSS</li>
   <li>I'm looking to learn more</li>
   <li>Contact me via: ccostarodrigoo@gmail.com</li>
 <p>  
