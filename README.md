@@ -11,7 +11,7 @@
 <p>  
 
     <div>
-      <HeatMap value={value} startDate={new Date('2016/01/01')} />
+    
     </div>
   )
 };
