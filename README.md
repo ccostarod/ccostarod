@@ -10,6 +10,7 @@
   <li>Contact me via: ccostarodrigoo@gmail.com</li>
 <p>  
   <div>
+      <img height='50em' src='https://cdn.worldvectorlogo.com/logos/c-1.svg'>
       <img height='50em' src='https://cdn.worldvectorlogo.com/logos/python-5.svg'>
       <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
       <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
