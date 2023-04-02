@@ -8,15 +8,6 @@
   <li>I’m currently learning Python, HTML & CSS, C</li>
   <li>I'm looking to learn more</li>
   <li>Contact me via: ccostarodrigoo@gmail.com</li>
-<p>  
-
-    <div>
-    
-    </div>
-  )
-};
-
-export default Demo
   <div>
       <img height='50em' src='https://cdn.worldvectorlogo.com/logos/c-1.svg'>
       <img height='50em' src='https://cdn.worldvectorlogo.com/logos/python-5.svg'>
