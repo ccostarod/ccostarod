@@ -14,5 +14,8 @@
       <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
       <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
       <img height='50em' src='https://cdn.worldvectorlogo.com/logos/javascript-1.svg'>
+      <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
+      <img height='50em' src='https://cdn.worldvectorlogo.com/logos/javascript-1.svg'>
+   
   </div>
 </p>
