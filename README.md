@@ -15,7 +15,7 @@
       <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
       <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
       <img height='50em' src='https://cdn.worldvectorlogo.com/logos/javascript-1.svg'>
-      <img height='50em' src='(https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg'>
+      <img height='50em' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg'>
    
   </div>
 </p>
