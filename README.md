@@ -10,6 +10,6 @@
   <li>Contact me via: ccostarodrigoo@gmail.com</li>
   <div>
       [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,html,css,c,py,mysql,mongodb,git)](https://skillicons.dev)
-   
+      [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   </div>
 </p>
