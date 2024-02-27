@@ -9,12 +9,7 @@
   <li>I'm looking to learn more</li>
   <li>Contact me via: ccostarodrigoo@gmail.com</li>
   <div>
-      <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
-      <img height='50em' src='https://cdn.worldvectorlogo.com/logos/c-1.svg'>
-      <img height='50em' src='https://cdn.worldvectorlogo.com/logos/c.svg'>
-      <img height='50em' src='https://cdn.worldvectorlogo.com/logos/python-5.svg'>
-      <img height='50em' src='https://cdn.worldvectorlogo.com/logos/javascript-1.svg'>
-      <img height='50em' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg'>
+      [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,html,css,c,py,mysql,mongodb,git)](https://skillicons.dev)
    
   </div>
 </p>
