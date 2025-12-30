@@ -1,5 +1,5 @@
 ## Welcome to my profile!
- #### <p>Hello, I'm Rodrigo Costa, Computer Science Student in Federal University of Maranhão (5/8) and Researcher in Computer Vision.</p>
+ #### <p>Hello, I'm Rodrigo Costa, Computer Science Student in Federal University of Maranhão (7/8) and Researcher in Computer Vision.</p>
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,nodejs,express,html,css,c,py,mysql,mongodb,git)](https://skillicons.dev)
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=ccostarod&show_icons=true&theme=tokyonight&count_private=true">
